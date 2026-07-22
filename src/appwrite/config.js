@@ -131,6 +131,7 @@ export class Service{
                 conf.appwriteBucketId,
                     ID.unique(),
                     fileId
+                    
             )
         }
 }
